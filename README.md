@@ -6,8 +6,11 @@
 The goal is to allocate $100,000 into stocks while taking into account the risk tolerance, which is measured by volatility, to maximize the expected return. An optimal mix of stock allocation will be calculated for each risk level to maximize profits. Well-balanced and diversified portfolios have low-risk levels, resulting in a lower potential profit. Highly volatile portfolios with narrow asset mixes will have high-risk levels.
 
 The main objective is to create a portfolio of stocks that appropriately balances conflicting risk and profit, and to compare different investment strategies : 
+
 a) Buy and Hold Strategy
+
 b) Momentum Trading Strategy
+
 c) Indexed Investing Strategy
 
 
