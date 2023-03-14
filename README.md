@@ -1,7 +1,7 @@
-# **Comparison of Investment Strategies for Stocks: Optimizing Investments**
+## **Comparison of Investment Strategies for Stocks: Optimizing Investments**
 
 
-## **Project Description**
+### **Project Description**
 
 The goal is to allocate **$100,000** into stocks while taking into account the risk tolerance, which is measured by volatility, to maximize the expected return. An optimal mix of stock allocation will be calculated for each risk level to maximize profits. Well-balanced and diversified portfolios have low-risk levels, resulting in a lower potential profit. Highly volatile portfolios with narrow asset mixes will have high-risk levels.
 
@@ -23,7 +23,7 @@ We have chosen the following stocks for our analysis :
 
 
 
-## **Optimal Stock Allocation for Different Risk Levels**
+### **Optimal Stock Allocation for Different Risk Levels**
 
 <img width="283" alt="image" src="https://user-images.githubusercontent.com/70052374/224859820-03f28023-424c-4d37-be74-4d6e7622d490.png">
 
@@ -39,7 +39,7 @@ We have chosen the following stocks for our analysis :
 * We can see that the 3 stocks chosen by the MPT (Modern Porfolio Theory) model are **McDonald's, Autodesk & Verisk.**
 
 
-## **Results**
+### **Results**
 
 <img width="706" alt="image" src="https://user-images.githubusercontent.com/70052374/224860494-88ea2efb-cdf9-463e-9b1b-e5cf403c88fe.png">
 
@@ -55,7 +55,7 @@ We have chosen the following stocks for our analysis :
 * So we can conclude that **Buy_and_Hold strategy** helps to retain the maximum value for investment of the 3 strategies.
 
 
-## **Conclusions**
+### **Conclusions**
 
 * For the Portfolio Allocation Model, we have used binary constraints to ensure that we select one and only one stock from each sector.
 
