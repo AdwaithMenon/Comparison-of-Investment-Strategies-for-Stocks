@@ -41,13 +41,14 @@ We have chosen the following stocks for our analysis :
 
 ## **Results**
 
-image.png
+<img width="706" alt="image" src="https://user-images.githubusercontent.com/70052374/224860494-88ea2efb-cdf9-463e-9b1b-e5cf403c88fe.png">
 
-* For the Buy_and_Hold strategy, the Aggregate Value of the investment on November 1st 2022 was $93,253.
 
-* For the Momentum Trading strategy, the Aggregate Value of the investment on November 1st 2022 was $88,033.
+* For the Buy_and_Hold strategy, the Aggregate Value of the investment on November 1st 2022 was **$93,253.**
 
-* If we invested in S&P 500 index, the Aggregate Value of the investment on November 1st 2022 was $90,356.
+* For the Momentum Trading strategy, the Aggregate Value of the investment on November 1st 2022 was **$88,033.**
+
+* If we invested in S&P 500 index, the Aggregate Value of the investment on November 1st 2022 was **$90,356.**
 
 * Therefore, if we used the 'Buy & Hold Strategy' or the 'Momentum Trading Strategy' based on the chosen portfolio allocation, we would be losing money. If we invest in S&P 500 index, we would be losing about $10,000 approx.
 
