@@ -19,7 +19,8 @@ c) Indexed Investing Strategy
 
 We have chosen the following stocks for our analysis :
 
-image.png
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/70052374/224860009-2f57c4a3-a671-4224-8e3d-b43202124b96.png">
+
 
 
 ## **Optimal Stock Allocation for Different Risk Levels**
