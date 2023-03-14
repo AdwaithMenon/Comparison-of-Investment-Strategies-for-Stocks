@@ -36,7 +36,7 @@ We have chosen the following stocks for our analysis :
 
 * For our analysis, we would be considering the risk value of 0.000205 and the corresponding stocks chosen are McDonald's, Autodesk and Verisk. This risk value has been chosen as these 3 stocks belong to 3 different sectors and their allocation proportion sums to 1 approximately.
 
-* We can see that the 3 stocks chosen by the MPT model are McDonald's, Autodesk & Verisk.
+* We can see that the 3 stocks chosen by the MPT model are **McDonald's, Autodesk & Verisk.**
 
 
 ## **Results**
