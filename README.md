@@ -1,4 +1,4 @@
-# **"Comparison of Investment Strategies for Stocks: Optimizing Your Investments"**
+## **"Comparison of Investment Strategies for Stocks: Optimizing Your Investments"**
 
 
 ## **Project Description**
