@@ -1,4 +1,4 @@
-## **Comparison of Investment Strategies for Stocks: Optimizing Investments**
+## **Comparison of Investment Strategies for Stocks : Optimizing Investments**
 
 
 ### **Project Description**
@@ -15,7 +15,7 @@ c) Indexed Investing Strategy
 
 
 
-## **Stocks Chosen**
+### **Stocks Chosen**
 
 We have chosen the following stocks for our analysis :
 
