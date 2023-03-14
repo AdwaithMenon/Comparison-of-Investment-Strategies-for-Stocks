@@ -24,7 +24,8 @@ image.png
 
 ## **Optimal Stock Allocation for Different Risk Levels**
 
-image.png
+<img width="283" alt="image" src="https://user-images.githubusercontent.com/70052374/224859820-03f28023-424c-4d37-be74-4d6e7622d490.png">
+
 
 * Towards the lefthand side, we have lower risk and higher diversity.
 
