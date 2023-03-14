@@ -3,7 +3,7 @@
 
 ## **Project Description**
 
-The goal is to allocate $100,000 into stocks while taking into account the risk tolerance, which is measured by volatility, to maximize the expected return. An optimal mix of stock allocation will be calculated for each risk level to maximize profits. Well-balanced and diversified portfolios have low-risk levels, resulting in a lower potential profit. Highly volatile portfolios with narrow asset mixes will have high-risk levels.
+The goal is to allocate **$100,000** into stocks while taking into account the risk tolerance, which is measured by volatility, to maximize the expected return. An optimal mix of stock allocation will be calculated for each risk level to maximize profits. Well-balanced and diversified portfolios have low-risk levels, resulting in a lower potential profit. Highly volatile portfolios with narrow asset mixes will have high-risk levels.
 
 The main objective is to create a portfolio of stocks that appropriately balances conflicting risk and profit, and to compare different investment strategies : 
 
@@ -36,7 +36,7 @@ We have chosen the following stocks for our analysis :
 
 * For our analysis, we would be considering the risk value of 0.000205 and the corresponding stocks chosen are McDonald's, Autodesk and Verisk. This risk value has been chosen as these 3 stocks belong to 3 different sectors and their allocation proportion sums to 1 approximately.
 
-* We can see that the 3 stocks chosen by the MPT model are **McDonald's, Autodesk & Verisk.**
+* We can see that the 3 stocks chosen by the MPT (Modern Porfolio Theory) model are **McDonald's, Autodesk & Verisk.**
 
 
 ## **Results**
