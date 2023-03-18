@@ -60,7 +60,7 @@ We have chosen the following stocks for our analysis :
 
 * We considered 5 different pairs of values of moving averages to determine the best Momentum Trading Strategy for each stock. The best strategy for each stock was decided based on the system return value for all the combinations.
 
-* Based on the analysis for 2022, we got to know that 'Buy and Hold' strategy worked better for the chosen portfolio on the whole when compared to Momentum Trading strategy.
+* Based on the analysis for 2022, we got to know that **'Buy and Hold Strategy'** worked better for the chosen portfolio on the whole when compared to Momentum Trading strategy.
 
 * Coming to the Individual stocks, for Verisk, the Momentum Trading Strategy worked better than Buy and Hold Strategy. For the other two stocks (McDonald's & Autodesk), Buy and Hold strategy worked better than Momentum Trading Strategy.
 
