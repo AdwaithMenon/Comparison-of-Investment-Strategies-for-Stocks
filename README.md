@@ -28,15 +28,27 @@ We have chosen the following stocks for our analysis :
 <img width="283" alt="image" src="https://user-images.githubusercontent.com/70052374/224859820-03f28023-424c-4d37-be74-4d6e7622d490.png">
 
 
-* Towards the lefthand side, we have lower risk and higher diversity.
+* Towards the left-hand side, we have lower risk and higher diversity.
 
-* Towards the righthand side, we have higher risk and lower diversity.
+* Towards the right-hand side, we have higher risk and lower diversity.
 
 * We have the optimal allocation of stocks corresponding to each risk level.
 
-* For our analysis, we would be considering the risk value of 0.000205 and the corresponding stocks chosen are McDonald's, Autodesk and Verisk. This risk value has been chosen as these 3 stocks belong to 3 different sectors and their allocation proportion sums to 1 approximately.
+* For our analysis, we would be considering a risk value of **0.000205** and the corresponding stocks chosen by the MPT (Modern Porfolio Theory) model are **McDonald's, Autodesk and Verisk**. This risk value has been chosen as these 3 stocks belong to 3 different sectors and their allocation proportion sums up to 1 approximately.
 
-* We can see that the 3 stocks chosen by the MPT (Modern Porfolio Theory) model are **McDonald's, Autodesk & Verisk.**
+
+
+### **Efficient Frontier**
+
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/70052374/226145242-6ac20d3a-cc76-4df3-9e2f-5707782a48a7.png">
+
+
+* The Efficient Frontier shows Risk (X) vs. Return (Y).
+
+* After a certain point, taking on more risk doesn't increase your returns! This occurs at ~Risk = 0.006 which achieves a max return around 0.135% (0.00135).
+
+* Any point on the Efficient Frontier represents an optimal allocation based on your risk tolerance.
+
 
 
 ### **Results**
@@ -59,11 +71,11 @@ We have chosen the following stocks for our analysis :
 
 * For the Portfolio Allocation Model, we have used binary constraints to ensure that we select one and only one stock from each sector.
 
-* Decreasing the max limit for risk and reducing the step size gave us good results as the data collected is on a daily basis (for 5 years). Using the parameter analysis, the optimal risk was chosen, and was used for further analysis.
+* Decreasing the max limit for risk and reducing the step size gave us good results as the data collected is on a daily basis (for 5 years). Using parameter analysis, the optimal risk was chosen, and was used for further analysis.
 
 * We considered 5 different pairs of values of moving averages to determine the best Momentum Trading Strategy for each stock. The best strategy for each stock was decided based on the system return value for all the combinations.
 
-* Based on the analysis for 2022, we got to know that 'Buy and Hold' strategy worked better for the chosen portfolio on the whole when compared to Momentum Trading strategy.
+* Based on the analysis for 2022, we got to know that **'Buy and Hold Strategy'** worked better for the chosen portfolio on the whole when compared to Momentum Trading strategy.
 
 * Coming to the Individual stocks, for Verisk, the Momentum Trading Strategy worked better than Buy and Hold Strategy. For the other two stocks (McDonald's & Autodesk), Buy and Hold strategy worked better than Momentum Trading Strategy.
 
