@@ -56,7 +56,7 @@ We have chosen the following stocks for our analysis :
 
 * For the Portfolio Allocation Model, we have used binary constraints to ensure that we select one and only one stock from each sector.
 
-* Decreasing the max limit for risk and reducing the step size gave us good results as the data collected is on a daily basis (for 5 years). Using the parameter analysis, the optimal risk was chosen, and was used for further analysis.
+* Decreasing the max limit for risk and reducing the step size gave us good results as the data collected is on a daily basis (for 5 years). Using parameter analysis, the optimal risk was chosen, and was used for further analysis.
 
 * We considered 5 different pairs of values of moving averages to determine the best Momentum Trading Strategy for each stock. The best strategy for each stock was decided based on the system return value for all the combinations.
 
