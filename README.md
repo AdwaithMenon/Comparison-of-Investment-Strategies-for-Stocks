@@ -45,7 +45,7 @@ We have chosen the following stocks for our analysis :
 
 * The Efficient Frontier shows Risk (X) vs. Return (Y).
 
-* At a certain point, taking on more risk doesn't increase your returns! This occurs at ~Risk = 0.006 which achieves a max return around 0.135% (0.00135).
+* After a certain point, taking on more risk doesn't increase your returns! This occurs at ~Risk = 0.006 which achieves a max return around 0.135% (0.00135).
 
 * Any point on the Efficient Frontier represents an optimal allocation based on your risk tolerance.
 
