@@ -36,6 +36,21 @@ We have chosen the following stocks for our analysis :
 
 * For our analysis, we would be considering a risk value of **0.000205** and the corresponding stocks chosen by the MPT (Modern Porfolio Theory) model are **McDonald's, Autodesk and Verisk**. This risk value has been chosen as these 3 stocks belong to 3 different sectors and their allocation proportion sums up to 1 approximately.
 
+
+
+### **Efficient Frontier**
+
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/70052374/226145242-6ac20d3a-cc76-4df3-9e2f-5707782a48a7.png">
+
+
+* The Efficient Frontier shows Risk (X) vs. Return (Y).
+
+* At a certain point, taking on more risk doesn't increase your returns! This occurs at ~Risk = 0.006 which achieves a max return around 0.135% (0.00135).
+
+* Any point on the Efficient Frontier represents an optimal allocation based on your risk tolerance.
+
+
+
 ### **Results**
 
 <img width="706" alt="image" src="https://user-images.githubusercontent.com/70052374/224860494-88ea2efb-cdf9-463e-9b1b-e5cf403c88fe.png">
