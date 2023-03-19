@@ -73,11 +73,11 @@ We have chosen the following stocks for our analysis :
 
 * Best Strategy For Each of the 3 stocks in the selected portfolio (based on historic stock value (daily data) from January 1 2017 to December 31 2021) :
 
- a) For **McDonald's**, the highest return is for the **21-Day/55-Day** strategy.
+ a) For **McDonald's**, the highest return corresponds to the **21-Day/55-Day** strategy.
  
- b) For **Autodesk**, the highest return is for the **5-Day/13-Day** strategy.
+ b) For **Autodesk**, the highest return corresponds to the **5-Day/13-Day** strategy.
  
- c) For **Verisk**, the highest return is for the **15-Day/30-Day** strategy.
+ c) For **Verisk**, the highest return corresponds to the **15-Day/30-Day** strategy.
 
 
 ### **Results**
