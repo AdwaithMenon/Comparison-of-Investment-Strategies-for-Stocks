@@ -84,9 +84,10 @@ We have chosen the following stocks for our analysis :
 
 * We have assumed that we have invested **$100,000** on January 1 2022.
 
-* Based on the chosen allocation of the stocks from MPT model, the amount invested in McDonald's would be **$27,168.5** , the amount invested in Autodesk would be **$32,814.4** and the amount invested in Verisk would be **$40,017.1**.
+* Based on the chosen allocation of the stocks from the MPT model, the amount invested in McDonald's would be **$27,168.5** , the amount invested in Autodesk would be **$32,814.4** and the amount invested in Verisk would be **$40,017.1**.
 
-![image](https://user-images.githubusercontent.com/70052374/226147445-b714e00f-7bb8-4a44-97bd-de000abd1f2c.png)
+<img width="286" alt="image" src="https://user-images.githubusercontent.com/70052374/226147520-fa9a5cf5-8320-474d-a94f-552dedcd651d.png">
+
 
 
 
