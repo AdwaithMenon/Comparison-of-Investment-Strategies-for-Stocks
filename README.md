@@ -55,15 +55,21 @@ We have chosen the following stocks for our analysis :
 * We have considered 5 different pairs of moving averages for the selected portfolio.
 
  a) 9-Day/21-Day Moving Average Strategy
+ 
  b) 5-Day/13-Day Moving Average Strategy
+ 
  c) 50-Day/200-Day Moving Average Strategy for Long Term Investors
+ 
  d) 21-Day/55-Day Moving Average Strategy
+ 
  e) 15-Day/30-Day Moving Average Strategy
 
 * Best Strategy For Each of the 3 stocks in the selected portfolio :
 
  a) For **McDonald's**, the highest return is for the **21-Day/55-Day** strategy.
+ 
  b) For **Autodesk**, the highest return is for the **5-Day/13-Day** strategy.
+ 
  c) For **Verisk**, the highest return is for the **15-Day/30-Day** strategy.
 
 
