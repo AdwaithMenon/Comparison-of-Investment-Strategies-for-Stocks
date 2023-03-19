@@ -43,11 +43,13 @@ We have chosen the following stocks for our analysis :
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/70052374/226145242-6ac20d3a-cc76-4df3-9e2f-5707782a48a7.png">
 
 
+
 * The Efficient Frontier shows Risk (X) vs. Return (Y).
 
 * After a certain point, taking on more risk doesn't increase your returns! This occurs at ~Risk = **0.00055** which achieves a maximum return of around **0.132% (0.00132)**.
 
 * Any point on the Efficient Frontier represents an optimal allocation based on your risk tolerance.
+
 
 
 ### **Momentum Trading Strategy**
@@ -67,6 +69,8 @@ We have chosen the following stocks for our analysis :
 
 
 
+
+
 * Best Strategy For Each of the 3 stocks in the selected portfolio (based on historic stock value (daily data) from January 1 2017 to December 31 2021) :
 
  a) For **McDonald's**, the highest return is for the **21-Day/55-Day** strategy.
@@ -77,6 +81,16 @@ We have chosen the following stocks for our analysis :
 
 
 ### **Results**
+
+* We have assumed that we have invested **$100,000** on January 1 2022.
+
+* Based on the chosen allocation of the stocks from MPT model, the amount invested in McDonald's would be **$27,168.5** , the amount invested in Autodesk would be **$32,814.4** and the amount invested in Verisk would be **$40,017.1**.
+
+![image](https://user-images.githubusercontent.com/70052374/226147445-b714e00f-7bb8-4a44-97bd-de000abd1f2c.png)
+
+
+
+* We have evaluated the Aggregate value of the porfolio at the beginning of each month until November 1 2022 (as shown below) for all 3 strategies.
 
 <img width="706" alt="image" src="https://user-images.githubusercontent.com/70052374/224860494-88ea2efb-cdf9-463e-9b1b-e5cf403c88fe.png">
 
